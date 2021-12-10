@@ -1,0 +1,14 @@
+Wrote new keypair to ~/.config/solana/devnet.json
+==============================================================================
+pubkey: E22LjcYAj9vdqFsvVXknrjMg7pHJ1sEs7ZbqSwoMADsz
+==============================================================================
+Save this seed phrase and your BIP39 passphrase to recover your new keypair:
+foam soap tongue alien wife resource remain rabbit theory donor collect powder
+
+candy machine with publickey: Hkshqg3ebjTpcrgT7EShSLau9aoVQH3Pk5wyfS8pxVqu
+
+candy machine pubkey: 7wqAzAZtmpjgDvyv6pm7aJGTogSz7fiD5tsMxzdj5amv
+
+updated startDate timestamp: 1638317520 (1 Dec 2021 00:12:00 GMT)
+
+ts-node C:\Users\Personal\Desktop\Building\~\metaplex-foundation\metaplex\js\packages\cli\src\candy-machine-cli.ts update_candy_machine --date "1 Dec 2021 00:12:00 GMT" --env devnet --keypair ~/.config/solana/devnet.json
